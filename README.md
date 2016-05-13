@@ -2,7 +2,7 @@
 #Data Structures
 Algorithms and Data Structures implemented in Java
 
-This is a collection of algorithms and data structures which I've implement over the years in my academic and professional life.
+This is a collection of algorithms and data structures.
 
 *Created by Jovani Rico
 * LinkedIn: http://www.linkedin.com/in/jovanirico
