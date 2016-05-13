@@ -11,16 +11,7 @@ package algorithms;
  */
 public class Fibonacci {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        //            0,1,1,2,3,5,8,13
-        System.out.println("Fibonacci: "+ getFibonacci(7));
-    }
-
-    public static int getFibonacci(int num) {
+    public int getFibonacci(int num) {
         if (num == 0) return 0;
         int[] sum = new int[num+1];
         sum[0] = 0;
