@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jovanimtzrico/DataStructureAlgorithms.png?label=ready&title=Ready)](https://waffle.io/jovanimtzrico/DataStructureAlgorithms)
 #Data Structures
 Algorithms and Data Structures implemented in Java
 
