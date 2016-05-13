@@ -1,10 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/jovanimtzrico/DataStructureAlgorithms.png?label=ready&title=Ready)](https://waffle.io/jovanimtzrico/DataStructureAlgorithms)
 #Data Structures
-Algorithms and Data Structures implemented in Java
+####Algorithms and Data Structures implemented in Java
 
 This is a collection of algorithms and data structures.
 
-*Created by Jovani Rico
+#### Created by Jovani Rico
 * LinkedIn: http://www.linkedin.com/in/jovanirico
 
 ##Data Structures.
