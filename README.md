@@ -26,3 +26,6 @@ This is a collection of algorithms and data structures which I've implement over
 - Dijkstras
 - DeepFirstSearch
 - BreadthFirstSearch
+
+##### Waffle.io Throughput Graph.
+[![Throughput Graph](https://graphs.waffle.io/jovanimtzrico/DataStructureAlgorithms/throughput.svg)](https://waffle.io/jovanimtzrico/DataStructureAlgorithms/metrics/throughput)
